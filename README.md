@@ -39,4 +39,5 @@ print("Product of two arrays is:",A*B)
 ![output](./multiply.png)
 
 ## RESULT:
+Thus the program is written to multiply two matrix.
 
